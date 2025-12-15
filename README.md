@@ -19,7 +19,7 @@ I enjoy working across the stack — designing solid backends, building clean us
 ## 🛠 Tech Stack
 
 ### Backend
-- Node.js, Express, NestJS  
+- Node.js, Express, NestJS, python
 - REST APIs, WebSockets  
 
 ### Frontend
@@ -59,7 +59,7 @@ I enjoy working across the stack — designing solid backends, building clean us
 ---
 
 ## 📫 Let’s Connect
-- 📧 Email: samuel.maverick.dev@gmail.com  
+- 📧 Email: samuelmulu810@gmail.com
 - 🌍 Based in Ethiopia  
 - 💼 Open to Full-Stack & Software Engineer roles  
 
