@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**samuel-mulu/samuel-mulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 👋 Hi, I’m Samuel Maverick
+# 👋 Hi, I’m Samuel Maverick
 
 I’m a **Full-Stack Software Engineer** with **2+ years of experience** building and maintaining **real-world production systems**, from **enterprise ERP platforms** to **fitness and management applications**.
 
@@ -77,8 +66,3 @@ I enjoy working across the stack — designing solid backends, building clean us
 ---
 
 ⭐ *I value clean code, collaboration, and continuous growth.*
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
