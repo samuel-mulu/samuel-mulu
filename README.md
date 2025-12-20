@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Samuel Maverick
 
-I’m a **Full-Stack Software Engineer** with **2+ years of experience** building and maintaining **real-world production systems**, from **enterprise ERP platforms** to **fitness and management applications**.
+I’m a **Full-Stack Software Engineer** with **2+ years of experience** building and maintaining **real-world production systems**, from **enterprise ERP platforms** to **AI Integrated applications**.
 
 I enjoy working across the stack — designing solid backends, building clean user interfaces, and delivering reliable systems that solve real business problems.
 
@@ -13,6 +13,7 @@ I enjoy working across the stack — designing solid backends, building clean us
 - Real-time features (WebSockets / Socket.io)
 - Database design & optimization
 - Cloud deployment & production support
+- ML and AI intgrated Apps
 
 ---
 
@@ -32,25 +33,13 @@ I enjoy working across the stack — designing solid backends, building clean us
 
 ### Mobile
 - Flutter (cross-platform apps, Google Play published)
-
+-React Native 
 ### Tools & DevOps
 - Git, GitHub  
 - Linux, VPS, basic Docker  
-- Firebase & third-party integrations  
+- Firebase & third-party integrations
+- Digital Ocean
 
----
-
-## 🚀 Selected Projects
-- **Fitness Tracking App (Prototype)**  
-  Trainers create workout plans, users track progress  
-
-- **ERP & Enterprise Systems**  
-  Inventory, users, reporting, system integrations  
-
-- **API Integrations & Automation**  
-  Payments, external services, secure workflows  
-
----
 
 ## 🎓 Education
 - Bachelor’s Degree in Software Engineering  
