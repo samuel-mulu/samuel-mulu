@@ -3,7 +3,7 @@
 Welcome to my GitHub!  
 I'm a passionate **Full-Stack & Mobile Developer** who builds modern, scalable, and user-focused applications.
 
-On the web side, I specialize in the **MERN stack** — crafting robust backends with **Node.js** & **Express.js**, efficient databases with **MongoDB**, and dynamic frontends with **React.js** & **Next.js**.
+On the web side, I specialize in the **MERN stack**  crafting robust backends with **Node.js** & **Express.js**, efficient databases with **MongoDB**, and dynamic frontends with **React.js** & **Next.js**.
 
 Beyond the web, I also develop elegant **Flutter** mobile apps and work with **Laravel** for PHP-based solutions. My goal is to transform ideas into seamless digital experiences that solve real-world problems.
 
